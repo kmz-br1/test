@@ -1,0 +1,15 @@
+#: locale=de
+
+## Media
+
+### Titel
+panorama_0A156D8D_06B8_CBB5_417C_164DB9FEC7E7.label = streetview_8lsTTnCPOWeV2wF_PbkZ-A_high
+panorama_0A7B542A_06B8_B8FF_4177_488E5C1F9C90.label = streetview_VZoCq0hPH_vxFaQAnjjhXg_high
+panorama_0A6F806A_06B8_B97F_418A_C40D6FB6B2BC.label = streetview_rYSKRB2HgiKK1WaW53SPAA_high
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 1
